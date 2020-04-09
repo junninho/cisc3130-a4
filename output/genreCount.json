@@ -1,0 +1,82 @@
+{
+  "Film-Noir": {
+    "complete": 87,
+    "last 5 years": 0
+  },
+  "Action": {
+    "complete": 1828,
+    "last 5 years": 165
+  },
+  "Adventure": {
+    "complete": 1263,
+    "last 5 years": 117
+  },
+  "Horror": {
+    "complete": 978,
+    "last 5 years": 69
+  },
+  "Romance": {
+    "complete": 1596,
+    "last 5 years": 46
+  },
+  "War": {
+    "complete": 382,
+    "last 5 years": 8
+  },
+  "Western": {
+    "complete": 167,
+    "last 5 years": 7
+  },
+  "Documentary": {
+    "complete": 440,
+    "last 5 years": 44
+  },
+  "Sci-Fi": {
+    "complete": 980,
+    "last 5 years": 101
+  },
+  "Drama": {
+    "complete": 4361,
+    "last 5 years": 224
+  },
+  "Thriller": {
+    "complete": 1894,
+    "last 5 years": 133
+  },
+  "(no genres listed)": {
+    "complete": 34,
+    "last 5 years": 14
+  },
+  "Crime": {
+    "complete": 1199,
+    "last 5 years": 64
+  },
+  "Fantasy": {
+    "complete": 779,
+    "last 5 years": 64
+  },
+  "Animation": {
+    "complete": 611,
+    "last 5 years": 62
+  },
+  "IMAX": {
+    "complete": 158,
+    "last 5 years": 1
+  },
+  "Comedy": {
+    "complete": 3756,
+    "last 5 years": 252
+  },
+  "Mystery": {
+    "complete": 573,
+    "last 5 years": 35
+  },
+  "Children": {
+    "complete": 664,
+    "last 5 years": 39
+  },
+  "Musical": {
+    "complete": 334,
+    "last 5 years": 1
+  }
+}
